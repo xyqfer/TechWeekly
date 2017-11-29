@@ -2,6 +2,8 @@
 
 > 从 2016年2月27日起每周六在技术组邮箱中发送技术周报，汇总平时看到的优质文章和资源，包括 iOS、Android、前端、后端、设计等。此处做备份存档
 
+- [第九期](https://github.com/xyqfer/TechWeekly/blob/master/%E7%AC%AC%E4%B9%9D%E6%9C%9F.md)
+- [第八期](https://github.com/xyqfer/TechWeekly/blob/master/%E7%AC%AC%E5%85%AB%E6%9C%9F.md)
 - [第七期](https://github.com/xyqfer/TechWeekly/blob/master/%E7%AC%AC%E4%B8%83%E6%9C%9F.md)
 - [第六期](https://github.com/xyqfer/TechWeekly/blob/master/%E7%AC%AC%E5%85%AD%E6%9C%9F.md)
 - [第五期](https://github.com/xyqfer/TechWeekly/blob/master/%E7%AC%AC%E4%BA%94%E6%9C%9F.md)
