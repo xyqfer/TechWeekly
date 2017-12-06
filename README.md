@@ -4,6 +4,8 @@
 
 - [第九十期](https://github.com/xyqfer/TechWeekly/blob/master/%E7%AC%AC%E4%B9%9D%E5%8D%81%E6%9C%9F.md)
 - [第八十九期](https://github.com/xyqfer/TechWeekly/blob/master/%E7%AC%AC%E5%85%AB%E5%8D%81%E4%B9%9D%E6%9C%9F.md)
+- [第二十一期](https://github.com/xyqfer/TechWeekly/blob/master/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%9C%9F.md)
+- [第二十期](https://github.com/xyqfer/TechWeekly/blob/master/%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9C%9F.md)
 - [第十九期](https://github.com/xyqfer/TechWeekly/blob/master/%E7%AC%AC%E5%8D%81%E4%B9%9D%E6%9C%9F.md)
 - [第十八期](https://github.com/xyqfer/TechWeekly/blob/master/%E7%AC%AC%E5%8D%81%E5%85%AB%E6%9C%9F.md)
 - [第十七期](https://github.com/xyqfer/TechWeekly/blob/master/%E7%AC%AC%E5%8D%81%E4%B8%83%E6%9C%9F.md)
